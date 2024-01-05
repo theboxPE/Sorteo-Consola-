@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\bin\Debug\net6.0\sorteo.exe
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\bin\Debug\net6.0\sorteo.deps.json
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\bin\Debug\net6.0\sorteo.runtimeconfig.json
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\bin\Debug\net6.0\sorteo.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\bin\Debug\net6.0\sorteo.pdb
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\obj\Debug\net6.0\sorteo.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\obj\Debug\net6.0\sorteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\obj\Debug\net6.0\sorteo.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\obj\Debug\net6.0\sorteo.AssemblyInfo.cs
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\obj\Debug\net6.0\sorteo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\obj\Debug\net6.0\sorteo.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\obj\Debug\net6.0\refint\sorteo.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\obj\Debug\net6.0\sorteo.pdb
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\obj\Debug\net6.0\sorteo.genruntimeconfig.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\sorteo\obj\Debug\net6.0\ref\sorteo.dll
